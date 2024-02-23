@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am Ahmed Raafat. I am an artificial intelligence engineer who has electronics and communications background and also an embedded systems enthusiast
+
+### Sponser
+
+If you like my work and you want to support me, you can send me a tip via
+
+- Paypal: https://paypal.me/araafat94
+
 <!--
 **A-Raafat/A-Raafat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
